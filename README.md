@@ -37,5 +37,3 @@ Gaussian Processes were explored for their robustness, though they faced scalabi
 ### Conclusion
 
 The Air Cargo Pricing Model employs a systematic approach to data preprocessing, transformation, and model selection, emphasizing interpretability and scalability. By incorporating both linear and ensemble models and utilizing thoughtful evaluation metrics, the model ensures a comprehensive understanding of performance. The integration of Gaussian Processes and SVGP demonstrates adaptability to diverse tasks while addressing scalability concerns.
-
-Although time constraints prevented the creation of additional visualizations for direct model comparisons, thorough performance assessments have been conducted, with results presented in the output section.
